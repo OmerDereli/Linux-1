@@ -45,7 +45,7 @@ $ ls
 
 --------------------------------------------------------------------------------------
 
-2-Text File Manipulation:
+# Text File Manipulation:
 
 1-Create a text file called "bio.txt" using a text editor (e.g., Nano or Vim).
 ```
